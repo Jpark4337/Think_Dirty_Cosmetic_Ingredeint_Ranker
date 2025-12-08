@@ -9,14 +9,14 @@ This project provides an interactive tool for generating ratings of cosmetic pro
 
 ## 🛠 Tech Stack
 
-Python 3.90+
-SQLite
-Data published on Kaggle
+- Python 3.90+
+- DB Browser with SQLite
+- Data published on Kaggle
 
 ## Usage
 
-clone the repository
-run locally python3 -m streamlit run streamlit_app.py
-Converting the cosmetic data file as I desired with SQLite (e.g., Cosmetic Product, Rating, Cosmetic Ingredients)
-Click Generate Overview
-Receive a structured and medically styled article with referencesTest.
+- clone the repository
+- run locally python3 -m streamlit run streamlit_app.py
+- Converting the cosmetic data file as I desired with SQLite (e.g., Cosmetic Product, Rating, Cosmetic Ingredients)
+- Terminal
+- Click Generate Overview
