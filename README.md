@@ -2,10 +2,10 @@
 
 This project provides an interactive tool for generating ratings of cosmetic products based on their ingredients toxicities published on Pubchem. Users can enter any cosmetic products, and the system will generate:
 
-A structured cosmetic ingredients overview
-Ingredietns explanations
-Toxicology summaries
-Rating of the product
+- A structured cosmetic ingredients overview
+- Ingredietns explanations
+- Toxicology summaries
+- Rating of the product
 
 ## 🛠 Tech Stack
 
