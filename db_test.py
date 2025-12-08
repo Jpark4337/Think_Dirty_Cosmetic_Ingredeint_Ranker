@@ -2,7 +2,9 @@ import sqlite3
 
 db_path = "/Users/jaypark/Desktop/Cosmetic Ingredients.db"  
 ingredient_ranks = {
-    "Water": 0,}
+    "Water": 0,
+    "Glycerin": 1,
+    "Petrolatum":2}
 
 # Now I have to make a function!
 def update_ingredient_ranks():
@@ -31,3 +33,6 @@ def update_ingredient_ranks():
     conn.commit()
     conn.close()
     print(f"Database ranks updated successfully for {len(products)} products.")
+
+if __name__ == "__main__":
+    update_ingredient_ranks()
