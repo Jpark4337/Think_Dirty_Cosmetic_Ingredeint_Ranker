@@ -33,3 +33,9 @@ To run this project locally, please download the database file from the source l
 `Think-Dirty/data/Cosmetic Ingredients.db`
 
 Once the file is in place, you can run the Python scripts in the `scripts/` folder.
+
+## Project Results
+
+You can view the final data set with the calculated ranks for specific ingredients (Phenoxyethanol, Citric Acid, Chamomile) in the following file:
+
+[Final Ranked Data CSV](data/Cosmetic_Ranks_Output.csv)
