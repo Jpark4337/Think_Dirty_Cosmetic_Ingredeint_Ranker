@@ -36,6 +36,9 @@ Once the file is in place, you can run the Python scripts in the `scripts/` fold
 
 ## Project Results
 
-You can view the final data set with the calculated ranks for specific ingredients (Phenoxyethanol, Citric Acid, Chamomile) in the following file:
+The following screenshot demonstrates the final output of the Python ranking script applied to the database:
 
-[Final Ranked Data CSV](data/Cosmetic_Ranks_Output.csv)
+![Screenshot of final ranked data](assets/rank_results.png)
+
+A full CSV export of the data is also available here: [Final Ranked Data CSV](data/Cosmetic_Ranks_Output.csv)
+
