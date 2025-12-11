@@ -1,6 +1,6 @@
 import sqlite3
 
-db_path = "/Users/jaypark/Desktop/Cosmetic Ingredients.db"  
+db_path = "/Users/jaypark/Desktop/Computer Science Project/Think Dirty/data/Cosmetic Ingredients.db"  
 ingredient_ranks = {
     "Water": 0,
     "CITRIC ACID": 1, #Mild Irritant
