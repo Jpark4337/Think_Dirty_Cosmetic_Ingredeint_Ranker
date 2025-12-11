@@ -8,7 +8,7 @@ ingredient_ranks = {
     "Phenoxyethanol":5, #Potential Neurotoxin, may cause vomiting and diarrhea.
     "Parabens": 6, #Hormone Disruptor
     "Toluene" : 7, #Known Carcinogen, this found in nail polish, liked to developmental toxicity and neurological concerns.
-    "Butylene Glycol: 3"} #Low toxicity, irritant for sensitive skin.
+    "Butylene Glycol": 3} #Low toxicity, irritant for sensitive skin.
 
 # Now I have to make a function!
 def update_ingredient_ranks():
