@@ -3,11 +3,12 @@ import sqlite3
 db_path = "/Users/jaypark/Desktop/Computer Science Project/Think Dirty/data/Cosmetic Ingredients.db"  
 ingredient_ranks = {
     "Water": 0,
-    "CITRIC ACID": 1, #Mild Irritant
-    "CHAMOMILE" : 4, #Pregnant Women Use with Caution, may cause uterine contractions
+    "Citric Acid": 1, #Mild Irritant
+    "Chamomile" : 4, #Pregnant Women Use with Caution, may cause uterine contractions
     "Phenoxyethanol":5, #Potential Neurotoxin, may cause vomiting and diarrhea.
     "Parabens": 6, #Hormone Disruptor
-    "Toluene" : 7} #Known Carcinogen, this found in nail polish, liked to developmental toxicity and neurological concerns.
+    "Toluene" : 7, #Known Carcinogen, this found in nail polish, liked to developmental toxicity and neurological concerns.
+    "Butylene Glycol: 3"} #Low toxicity, irritant for sensitive skin.
 
 # Now I have to make a function!
 def update_ingredient_ranks():
