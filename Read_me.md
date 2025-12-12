@@ -40,4 +40,3 @@ The following screenshot demonstrates the final output of the Python ranking scr
 ![Screenshot of final ranked data](assets/rank_results.png)
 
 A full CSV export of the data is also available here: [Final Ranked Data CSV](data/Cosmetic_Ranks_Output.csv)
-
